@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/Mavis2103/count.svg" />
 </p>
 
 - 🌱 Back to basic on JavaScript(ReactJS, React Native), SCSS, HTML
