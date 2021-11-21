@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🚨 My daily blog [Daily Dev Tips](https://daily-dev-tips.com/)
+<!-- - 🚨 My daily blog [Daily Dev Tips](https://daily-dev-tips.com/) -->
 - 🌱 Back to basic on JavaScript, SCSS, HTML
 - 🚀 Looking for an amazing dev? Reach out!
 - 🐕 Proud owner of Yaatree
