@@ -17,7 +17,6 @@
 - 🚀 Looking for an amazing dev? Reach out!
 - 🙉 Hobbies include, Game, One Piece and Eating
 
--->
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
