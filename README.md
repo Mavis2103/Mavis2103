@@ -46,5 +46,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/AVS1508">
 <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Mavis2103&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavis2103&langs_count=4&show_icons=true&layout=compact&langs_count=8&theme=algolia"/>
+<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavis2103&langs_count=4&layout=compact&langs_count=8&theme=algolia"/>
 </a>
