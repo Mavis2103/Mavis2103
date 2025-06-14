@@ -8,11 +8,11 @@
 
 <a href="https://app.daily.dev/Mavis"><img src="https://github.com/Mavis2103/Mavis2103/blob/main/devcard.svg" height="450" alt="Quân Trần's Dev Card" align="right"/></a>
 
-- 🔭 I’m currently working on Safehrizons and I am Freelancer
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning in ...
 - 👯 I’m looking to collaborate on ...
 <!-- - 🤔 I’m looking for help with ... - 💬 Ask me about ... -->
-- 📫 How to reach me: taquanvku@gmail.com
+- 📫 How to reach me: taquan.dev@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Bug 🐧
 - 🚀 Looking for an amazing dev? Reach out!
