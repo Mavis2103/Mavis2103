@@ -8,16 +8,14 @@
 
 <a href="https://app.daily.dev/Mavis"><img src="https://github.com/Mavis2103/Mavis2103/blob/main/devcard.svg" height="450" alt="Mavis2103's Dev Card" align="right"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning in ...
-- 👯 I’m looking to collaborate on ...
-<!-- - 🤔 I’m looking for help with ... - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Bug 🐧
-- 🚀 Looking for an amazing dev? Reach out!
-- 🐕‍🦺🐈 I love pets
-- 🙉 Hobbies include, Coding, Game, One Piece and Eating
+🔭 I’m currently engaged in various projects across the universe.
+🌱 I’m expanding my knowledge through life experiences.
+👯 I’m seeking opportunities to collaborate on critical theories.
+<!-- - 🤔 I’m in need of assistance with ... - 💬 Feel free to ask me about ... -->
+⚡ Interesting tidbit: I have a fondness for bugs 🐧
+🚀 Looking for a stellar developer? Don’t hesitate to reach out!
+🐕‍🦺🐈 I have a passion for animals.
+🙉 My hobbies include coding, gaming, watching One Piece, and enjoying food.
 
 ### 🧠 &nbsp;Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
